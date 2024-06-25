@@ -1,0 +1,5 @@
+local_dev
+__pycache__
+dist
+.egg
+.whl
